@@ -1,0 +1,639 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Hea",
+				"Header"
+			],
+			[
+				"Val",
+				"ValhallasWarriorOrderHome"
+			],
+			[
+				"Dala",
+				"Dalaran70"
+			],
+			[
+				"file",
+				"file_path"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "lab1_part3.cpp",
+			"settings":
+			{
+				"buffer_size": 183,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Vintageous/Vintageous.sublime-build",
+					""
+				],
+				[
+					"Packages/Vintageous/Vintageous.sublime-build",
+					"Vintageous - Test (All)"
+				],
+				[
+					"Packages/Vintageous/Vintageous.sublime-build",
+					"Vintageous - Test (This File Only)"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXing/LaTeX (TikZ).sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXing/LaTeX (TikZ).sublime-build",
+					"Clean up Files"
+				]
+			],
+			[
+				"Packages/LaTeXing/LaTeX (TikZ).sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					"Clean up Files"
+				]
+			],
+			[
+				"Packages/LaTeXing/LaTeX.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Markdown Preview/Markdown.sublime-build",
+					""
+				],
+				[
+					"Packages/Vintageous/Vintageous.sublime-build",
+					""
+				],
+				[
+					"Packages/Vintageous/Vintageous.sublime-build",
+					"Vintageous - Test (All)"
+				],
+				[
+					"Packages/Vintageous/Vintageous.sublime-build",
+					"Vintageous - Test (This File Only)"
+				]
+			],
+			[
+				"Packages/Markdown Preview/Markdown.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/Vintageous/Vintageous.sublime-build",
+					""
+				],
+				[
+					"Packages/Vintageous/Vintageous.sublime-build",
+					"Vintageous - Test (All)"
+				],
+				[
+					"Packages/Vintageous/Vintageous.sublime-build",
+					"Vintageous - Test (This File Only)"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "remo",
+		"selected_items":
+		[
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"mater",
+				"Material Theme: Configuration"
+			],
+			[
+				"previ",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"comm",
+				"Toggle Comment"
+			],
+			[
+				"yc",
+				"Ycmd: Create HMAC keys"
+			],
+			[
+				"trail",
+				"Trailing Spaces: Toggle Trailing Spaces Highlighting"
+			],
+			[
+				"trail del",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"trail hi",
+				"Trailing Spaces: Toggle Trailing Spaces Highlighting"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"syntax m",
+				"Set Syntax: Markdown"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"Build With: Python - Syntax Check"
+			]
+		],
+		"width": 406.0
+	},
+	"console":
+	{
+		"height": 507.0,
+		"history":
+		[
+			"/clear",
+			"clear",
+			"help",
+			"font_face",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Drive/Documents/School/CS250/Lab 01"
+	],
+	"file_history":
+	[
+		"/C/cygwin/home/Jon/lab1_part3.cpp",
+		"/D/Drive/Documents/School/CS250/Lab 01/Lab1_part2.cpp",
+		"/C/Users/Jon/AppData/Roaming/Sublime Text 3/Packages/TrailingSpaces/trailing_spaces.sublime-settings",
+		"/C/Users/Jon/AppData/Roaming/Sublime Text 3/Packages/MarkdownEditing/Markdown.sublime-settings",
+		"/C/Users/Jon/AppData/Roaming/Sublime Text 3/Packages/MarkdownEditing/README.md",
+		"/C/Users/Jon/AppData/Roaming/Sublime Text 3/Packages/Anaconda/README.md",
+		"/C/Users/Jon/AppData/Roaming/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/D/Drive/volden.us/spectral/index.html",
+		"/D/Drive/volden.us/spectral/assets/js/main.js",
+		"/D/Drive/volden.us/spectral/assets/js/jquery.magnific-popup.min.js",
+		"/F/code/source/POE Chat Tool/poewindow.hpp",
+		"/F/code/source/POE Chat Tool/main.cpp",
+		"/F/code/source/POE Chat Tool/poewindow.cpp",
+		"/C/Users/Jon/Documents/PoE-TradeMacro/AdditionalMacros.txt",
+		"/C/Users/Jon/Documents/my games/Path of Exile/NeverSink's filter - 2-SEMI-STRICT.filter",
+		"/C/Users/Jon/Documents/my games/Path of Exile/NeverSink's filter - 6-UBER-PLUS-STRICT.filter",
+		"/D/Drive/volden.us/demo/index.html",
+		"/D/Drive/volden.us/demo/js/jquery.vide.js",
+		"/C/Users/Jon/AppData/Local/Temp/7zO43356405/README.txt",
+		"/D/Drive/volden.us/demo/css/main.css",
+		"/C/Users/Jon/AppData/Roaming/Sublime Text 3/Packages/User/markdown.integral.sublime-snippet",
+		"/D/Drive/Documents/School/Notes/test.md",
+		"/C/Users/Jon/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/C/Users/Jon/AppData/Roaming/Sublime Text 3/Packages/User/snippets/markdown.integral",
+		"/C/Users/Jon/AppData/Roaming/Sublime Text 3/Packages/User/Markdown (Standard).sublime-settings",
+		"/C/Users/Jon/AppData/Roaming/Sublime Text 3/Packages/User/Markdown.sublime-settings",
+		"/C/Users/Jon/AppData/Roaming/Sublime Text 3/Packages/User/MarkdownPreview.sublime-settings",
+		"/C/Users/Jon/AppData/Roaming/Sublime Text 3/Packages/MarkdownEditing/MultiMarkdown.sublime-settings",
+		"/D/Steam/SteamApps/common/Terraria/serverconfig.txt",
+		"/D/Steam/SteamApps/common/Terraria/README.txt",
+		"/D/Drive/Documents/scratch.txt",
+		"/D/Drive/Documents/scratch",
+		"/D/Drive/Documents/notes.txt",
+		"/D/Drive/volden.us/index - Copy.html",
+		"/D/Drive/volden.us/zone/volden.us.txt",
+		"/D/Drive/volden.us/index.html",
+		"/C/Users/Jon/Documents/my games/Terraria/config.json",
+		"/E/League of Legends/lol.launcher.exe",
+		"/C/Users/Jon/AppData/Local/Temp/7zO43A148DA/README.txt",
+		"/E/Blizzard/Hearthstone/ConnectLog.txt",
+		"/C/Users/Jon/Documents/my games/Path of Exile/NeverSink's filter - 3-STRICT.filter",
+		"/D/Drive/Documents/School/COMP2/nejmhle1000941.ris",
+		"/D/Drive/Documents/School/COMP2/nejmhle1000941 (1).ris",
+		"/C/Users/Jon/Documents/my games/Path of Exile/NeverSink's filter - 1-REGULAR.filter",
+		"/C/cygwin/home/Jon/WoW-Pro-Guides/WoWPro/WoWPro.lua",
+		"/C/cygwin/home/Jon/WoW-Pro-Guides/WoWPro/WoWPro_Events.lua",
+		"/C/Users/Jon/Documents/my games/Path of Exile/NeverSink's filter - REGULAR.filter",
+		"/C/Users/Jon/Documents/my games/Path of Exile/NeverSink's filter - STRICT.filter",
+		"/C/Users/Jon/Desktop/POE-TradeMacro-1.5.0/temp/cookie_data.txt",
+		"/C/Users/Jon/Desktop/POE-TradeMacro-1.2.12/trade_data/TradeMacro.ahk",
+		"/E/Blizzard/World of Warcraft/Interface/AddOns/WoWPro_Leveling/Neutral/098_110_Emmaleah_Legion_Warrior.lua",
+		"/E/Blizzard/World of Warcraft/Interface/AddOns/WoWPro_Leveling/Neutral/100_109_Emmaleah_Azsuna.lua",
+		"/E/Blizzard/World of Warcraft/Interface/AddOns/WoWPro_Leveling/Alliance/100_100_Emmaleah_LegionIntro.lua",
+		"/E/Blizzard/World of Warcraft/Interface/AddOns/WoWPro_Leveling/Neutral/098_110_Emmaleah_Legion_Priest.lua",
+		"/C/Users/Jon/Documents/my games/Path of Exile/production_Config.ini",
+		"/C/Program Files (x86)/Steam/SteamApps/common/Path of Exile/logs/Client.txt",
+		"/C/Program Files (x86)/Steam/steamapps/common/Path of Exile/memory_usage.txt",
+		"/C/Program Files (x86)/Steam/SteamApps/common/Path of Exile/logs/Client.Worker6_Background.txt",
+		"/C/Program Files (x86)/Steam/SteamApps/common/Path of Exile/logs/Client.Worker3.txt",
+		"/C/Program Files (x86)/Steam/SteamApps/common/Path of Exile/logs/Client.Worker2.txt",
+		"/C/Program Files (x86)/Steam/SteamApps/common/Path of Exile/logs/Client.Worker1.txt",
+		"/E/Blizzard/World of Warcraft/Interface/AddOns/WoWPro/WoWPro_Events.lua",
+		"/C/cygwin/home/Jon/WoW-Pro-Guides/WoWPro_Leveling/WoWPro_Leveling.lua",
+		"/E/Blizzard/World of Warcraft/Interface/AddOns/WoWPro/WoWPro.lua",
+		"/E/Blizzard/World of Warcraft/Interface/AddOns/WoWPro/WoWPro_Mapping.lua",
+		"/E/Blizzard/World of Warcraft/Interface/AddOns/WoWPro/WoWPro_ZoneData.lua",
+		"/E/Blizzard/World of Warcraft/WTF/Account/CAMELJON/SavedVariables/WoWPro.lua",
+		"/E/Blizzard/World of Warcraft/Interface/AddOns/WoWPro_Leveling/Horde/05_12_Jiyambi_Tirisfal_Glades.lua",
+		"/E/Blizzard/World of Warcraft/Interface/AddOns/TomTom/TomTom.toc",
+		"/E/Blizzard/World of Warcraft/WTF/Account/CAMELJON/Boulderfist/Camned/SavedVariables/WoWPro.lua",
+		"/C/Users/Jon/AppData/Local/Temp/7zO47464B8B/AutoTurnIn.lua",
+		"/D/Drive/Documents/School/CS200/main.cpp",
+		"/E/Blizzard/World of Warcraft/Interface/AddOns/Chatter/Modules/AutoPopup.lua",
+		"/F/code/source/PA3/PA3/main.cpp",
+		"/C/Users/Jon/AppData/Roaming/Sublime Text 3/Packages/C++YouCompleteMe/C++YouCompleteMe.sublime-settings",
+		"/C/Users/Jon/AppData/Roaming/Sublime Text 3/Packages/YcmdCompletion/YcmdCompletion.sublime-settings",
+		"/C/Users/Jon/AppData/Roaming/Sublime Text 3/Packages/User/YcmdCompletion.sublime-settings",
+		"/F/code/source/PA3/PA3/booklist.txt",
+		"/d/Drive/Documents/School/CS200/tictactoe/main.cpp",
+		"/F/code/source/PA2/PA2.cbp",
+		"/F/code/source/test/test.cbp",
+		"/F/code/source/debug.cpp",
+		"/C/Users/Jon/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Jon/AppData/Roaming/Sublime Text 3/Packages/tabulate/README.md",
+		"/D/Drive/Documents/School/CS200/Debug Me - Programs/Buggy4.cpp",
+		"/D/Drive/Documents/School/CS200/Debug Me - Programs/Buggy3.cpp",
+		"/D/Drive/Documents/School/CS200/Debug Me - Programs/Buggy2.cpp",
+		"/E/Blizzard/World of Warcraft/interface/AddOns/AdiBags_Hearthstones/AdiBags_Hearthstones.lua",
+		"/D/Drive/Documents/School/CS200/Debug Me - Programs/Buggy1.cpp",
+		"/K/config.txt",
+		"/K/cmdline.txt",
+		"/E/Blizzard/World of Warcraft/interface/AddOns/AdiBags_Hearthstones/Changelog-AdiBags_Hearthstones-7.0-release4.txt",
+		"/F/code/sublimetext/Data/Packages/C++/C++ Single File.sublime-build",
+		"/C/Users/Jon/Desktop/C++ Single File.sublime-build",
+		"/C/Users/Jon/AppData/Local/Temp/7zO0D37C1CE/C++ Single File.sublime-build",
+		"/F/code/sublimetext/Packages/C++.sublime-package",
+		"/E/Blizzard/World of Warcraft/Interface/AddOns/AdiBags/libs/AceConfig-3.0/AceConfig-3.0.xml",
+		"/E/Blizzard/World of Warcraft/Interface/AddOns/AdiBags/config/Options.lua",
+		"/C/Users/Jon/AppData/Local/Temp/7zOCAA898A3/tooltip.lua",
+		"/C/Users/Jon/AppData/Local/Temp/7zOCAA50307/event.lua",
+		"/C/Users/Jon/AppData/Local/Temp/7zOCAAA3824/data.lua",
+		"/C/Users/Jon/AppData/Local/Temp/7zOCAA59C42/event.lua",
+		"/E/Blizzard/World of Warcraft/Interface/AddOns/PetTracker/Core/Battle.lua",
+		"/E/Blizzard/World of Warcraft/Interface/AddOns/PetTracker/PetTracker.lua",
+		"/E/Blizzard/World of Warcraft/Interface/AddOns/PetTracker/Libs/LibPetJournal-2.0/LibPetJournal-2.0.lua",
+		"/C/Users/Jon/AppData/Local/Temp/7zOCAAD2B41/core.lua",
+		"/E/Blizzard/World of Warcraft/Interface/AddOns/PetTracker/Localization/en.lua",
+		"/E/Blizzard/World of Warcraft/Interface/AddOns/PetTracker/Core/Journal.lua",
+		"/E/Blizzard/World of Warcraft/WTF/Account/CAMELJON/SavedVariables/Raven.lua",
+		"/C/Users/Jon/AppData/Local/Temp/7zOCAA5D772/config.lua",
+		"/C/Users/Jon/AppData/Local/Temp/7zOCAA677F2/api.lua",
+		"/C/Users/Jon/AppData/Local/Temp/7zOCAAB4853/helper.lua",
+		"/C/Users/Jon/AppData/Local/Temp/7zO4E227CCF/Journal.lua",
+		"/E/Blizzard/World of Warcraft/interface/AddOns/Altoholic/changelog.txt",
+		"/D/Downloads/roms/MAME/MAME - Update ROMs (v0.175 to v0.176)/_ReadMe_.txt",
+		"/C/webGalleryCache/galleryIndex.xml",
+		"//RETROPIE/splashscreens/README.txt",
+		"/D/Downloads/NFSClient/license.gpl.txt",
+		"/D/Downloads/NFSClient/NFSClient.exe.config",
+		"/C/Users/Jon/AppData/Local/Temp/7zO4F2BE563/no-intro_NES.xml",
+		"/D/Drive/Documents/School/CS134/Greenfoot Tutorials/ExploreIfScenario/FigureTestLetterGrade.java",
+		"/C/Users/Jon/AppData/Local/Temp/7zO06F57605/GoodCodes.txt",
+		"/D/Downloads/roms/No-Intro/No-Intro/_ReadMe_.txt",
+		"/C/Users/Jon/Desktop/FigureTestLetterGrade (2).java",
+		"/C/Users/Jon/Desktop/FigureTestLetterGrade.java",
+		"/C/Users/Jon/Desktop/FigureTestLetterGrade (1).java",
+		"/D/Downloads/roms/mame 0.175/MAME 0.175 ROMs/_ReadMe_.txt",
+		"/C/Users/Jon/Desktop/POE-ItemInfo-2.3.04/POE-ItemInfo.ahk"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"D:\\Drive\\volden.us\\spectral\\assets\\css",
+			"D:\\Drive\\volden.us\\demo",
+			"D:\\Drive\\volden.us\\spectral",
+			"D:\\Drive\\volden.us\\demo",
+			"D:\\Drive\\volden.us\\demo\\css",
+			"D:\\Drive\\volden.us\\demo",
+			"D:\\Blizzard\\World of Warcraft\\Interface\\AddOns\\PetBattleMaster",
+			"D:\\Blizzard\\World of Warcraft\\Interface\\AddOns\\PetBattleMaster\\libs\\LibPetJournal-2.0",
+			"D:\\Blizzard\\World of Warcraft\\Interface\\AddOns\\PetBattleMaster"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"courses",
+			"push_front",
+			"iframe",
+			"type: 'iframe'",
+			"$(document).ready(function() {",
+			"video",
+			"youtube",
+			"background",
+			"data-vide",
+			"video.mp4",
+			"col-sm-6",
+			"row",
+			"bg_2.jpg",
+			"our work",
+			"logo",
+			"0207",
+			"Crafting",
+			"scroll of",
+			"scroll o",
+			"Z|ValhallasWarriorOrderHome/1|",
+			"Timer",
+			"Dreaming Fungus",
+			"OnEnable",
+			"EventHandler",
+			"SetScript",
+			"WoWPro.CompleteStep",
+			"ZT:",
+			"loot",
+			"silver coi",
+			"0400",
+			"wisdom",
+			"skype",
+			"controls",
+			"filter",
+			"PetJournalParent",
+			"TogglePetJournal",
+			"PetJournalParent",
+			"Blizzard_PetJournal",
+			"PetJournal",
+			"Blizzard_PetJournal"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "lab1_part3.cpp",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 183,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"vintage":
+							{
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 0
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CppYCM.2":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 223.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 118.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "lab1.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"_vintageous_last_buffer_search": "courses",
+		"_vintageous_last_buffer_search_command": "vi_octothorp",
+		"_vintageous_reset_during_init": true,
+		"vintage":
+		{
+		}
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 265.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
